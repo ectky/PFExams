@@ -1,0 +1,6 @@
+D:\VSProjects\ProgrammingFundamentalsExam-26February2017\HornetComm\obj\Debug\HornetComm.csprojResolveAssemblyReference.cache
+D:\VSProjects\ProgrammingFundamentalsExam-26February2017\HornetComm\obj\Debug\HornetComm.exe
+D:\VSProjects\ProgrammingFundamentalsExam-26February2017\HornetComm\obj\Debug\HornetComm.pdb
+D:\VSProjects\ProgrammingFundamentalsExam-26February2017\HornetComm\bin\Debug\HornetComm.exe.config
+D:\VSProjects\ProgrammingFundamentalsExam-26February2017\HornetComm\bin\Debug\HornetComm.exe
+D:\VSProjects\ProgrammingFundamentalsExam-26February2017\HornetComm\bin\Debug\HornetComm.pdb

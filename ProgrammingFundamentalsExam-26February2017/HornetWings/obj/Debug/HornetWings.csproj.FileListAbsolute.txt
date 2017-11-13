@@ -1,0 +1,6 @@
+D:\VSProjects\ProgrammingFundamentalsExam-26February2017\HornetWings\bin\Debug\HornetWings.exe.config
+D:\VSProjects\ProgrammingFundamentalsExam-26February2017\HornetWings\bin\Debug\HornetWings.exe
+D:\VSProjects\ProgrammingFundamentalsExam-26February2017\HornetWings\bin\Debug\HornetWings.pdb
+D:\VSProjects\ProgrammingFundamentalsExam-26February2017\HornetWings\obj\Debug\HornetWings.csprojResolveAssemblyReference.cache
+D:\VSProjects\ProgrammingFundamentalsExam-26February2017\HornetWings\obj\Debug\HornetWings.exe
+D:\VSProjects\ProgrammingFundamentalsExam-26February2017\HornetWings\obj\Debug\HornetWings.pdb

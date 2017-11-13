@@ -1,0 +1,6 @@
+D:\VSProjects\ProgrammingFundamentalsExam-26February2017\HornetArmada\bin\Debug\HornetArmada.exe.config
+D:\VSProjects\ProgrammingFundamentalsExam-26February2017\HornetArmada\bin\Debug\HornetArmada.exe
+D:\VSProjects\ProgrammingFundamentalsExam-26February2017\HornetArmada\bin\Debug\HornetArmada.pdb
+D:\VSProjects\ProgrammingFundamentalsExam-26February2017\HornetArmada\obj\Debug\HornetArmada.csprojResolveAssemblyReference.cache
+D:\VSProjects\ProgrammingFundamentalsExam-26February2017\HornetArmada\obj\Debug\HornetArmada.exe
+D:\VSProjects\ProgrammingFundamentalsExam-26February2017\HornetArmada\obj\Debug\HornetArmada.pdb
