@@ -1,0 +1,5 @@
+D:\VSProjects\ExamsProblem1\TruckDriver\bin\Debug\TruckDriver.exe.config
+D:\VSProjects\ExamsProblem1\TruckDriver\bin\Debug\TruckDriver.exe
+D:\VSProjects\ExamsProblem1\TruckDriver\bin\Debug\TruckDriver.pdb
+D:\VSProjects\ExamsProblem1\TruckDriver\obj\Debug\TruckDriver.exe
+D:\VSProjects\ExamsProblem1\TruckDriver\obj\Debug\TruckDriver.pdb

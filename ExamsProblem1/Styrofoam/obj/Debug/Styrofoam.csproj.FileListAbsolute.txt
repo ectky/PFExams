@@ -1,0 +1,5 @@
+D:\VSProjects\ExamsProblem1\Styrofoam\bin\Debug\Styrofoam.exe.config
+D:\VSProjects\ExamsProblem1\Styrofoam\bin\Debug\Styrofoam.exe
+D:\VSProjects\ExamsProblem1\Styrofoam\bin\Debug\Styrofoam.pdb
+D:\VSProjects\ExamsProblem1\Styrofoam\obj\Debug\Styrofoam.exe
+D:\VSProjects\ExamsProblem1\Styrofoam\obj\Debug\Styrofoam.pdb

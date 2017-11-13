@@ -1,0 +1,5 @@
+D:\VSProjects\ExamsProblem1\Bills\bin\Debug\Bills.exe.config
+D:\VSProjects\ExamsProblem1\Bills\bin\Debug\Bills.exe
+D:\VSProjects\ExamsProblem1\Bills\bin\Debug\Bills.pdb
+D:\VSProjects\ExamsProblem1\Bills\obj\Debug\Bills.exe
+D:\VSProjects\ExamsProblem1\Bills\obj\Debug\Bills.pdb
