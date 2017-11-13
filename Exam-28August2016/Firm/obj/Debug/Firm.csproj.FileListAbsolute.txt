@@ -1,0 +1,6 @@
+D:\VSProjects\Exam-28August2016\Firm\bin\Debug\Firm.exe.config
+D:\VSProjects\Exam-28August2016\Firm\bin\Debug\Firm.exe
+D:\VSProjects\Exam-28August2016\Firm\bin\Debug\Firm.pdb
+D:\VSProjects\Exam-28August2016\Firm\obj\Debug\Firm.exe
+D:\VSProjects\Exam-28August2016\Firm\obj\Debug\Firm.pdb
+D:\VSProjects\Exam-28August2016\Firm\obj\Debug\Firm.csprojResolveAssemblyReference.cache

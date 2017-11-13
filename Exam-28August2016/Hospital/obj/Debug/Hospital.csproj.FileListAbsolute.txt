@@ -1,0 +1,5 @@
+D:\VSProjects\Exam-28August2016\Hospital\bin\Debug\Hospital.exe.config
+D:\VSProjects\Exam-28August2016\Hospital\bin\Debug\Hospital.exe
+D:\VSProjects\Exam-28August2016\Hospital\bin\Debug\Hospital.pdb
+D:\VSProjects\Exam-28August2016\Hospital\obj\Debug\Hospital.exe
+D:\VSProjects\Exam-28August2016\Hospital\obj\Debug\Hospital.pdb

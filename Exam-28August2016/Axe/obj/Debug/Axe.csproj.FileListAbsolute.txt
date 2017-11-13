@@ -1,0 +1,5 @@
+D:\VSProjects\Exam-28August2016\Axe\bin\Debug\Axe.exe.config
+D:\VSProjects\Exam-28August2016\Axe\bin\Debug\Axe.exe
+D:\VSProjects\Exam-28August2016\Axe\bin\Debug\Axe.pdb
+D:\VSProjects\Exam-28August2016\Axe\obj\Debug\Axe.exe
+D:\VSProjects\Exam-28August2016\Axe\obj\Debug\Axe.pdb

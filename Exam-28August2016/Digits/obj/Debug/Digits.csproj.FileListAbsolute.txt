@@ -1,0 +1,6 @@
+D:\VSProjects\Exam-28August2016\Digits\bin\Debug\Digits.exe.config
+D:\VSProjects\Exam-28August2016\Digits\bin\Debug\Digits.exe
+D:\VSProjects\Exam-28August2016\Digits\bin\Debug\Digits.pdb
+D:\VSProjects\Exam-28August2016\Digits\obj\Debug\Digits.csprojResolveAssemblyReference.cache
+D:\VSProjects\Exam-28August2016\Digits\obj\Debug\Digits.exe
+D:\VSProjects\Exam-28August2016\Digits\obj\Debug\Digits.pdb

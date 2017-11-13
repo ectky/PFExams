@@ -1,0 +1,6 @@
+D:\VSProjects\Exam-28August2016\Profit\bin\Debug\Profit.exe.config
+D:\VSProjects\Exam-28August2016\Profit\bin\Debug\Profit.exe
+D:\VSProjects\Exam-28August2016\Profit\bin\Debug\Profit.pdb
+D:\VSProjects\Exam-28August2016\Profit\obj\Debug\Profit.csprojResolveAssemblyReference.cache
+D:\VSProjects\Exam-28August2016\Profit\obj\Debug\Profit.exe
+D:\VSProjects\Exam-28August2016\Profit\obj\Debug\Profit.pdb
