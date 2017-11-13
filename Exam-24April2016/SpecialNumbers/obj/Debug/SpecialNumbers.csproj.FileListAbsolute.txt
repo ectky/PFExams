@@ -1,0 +1,6 @@
+D:\VSProjects\Exam-24April2016\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+D:\VSProjects\Exam-24April2016\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+D:\VSProjects\Exam-24April2016\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+D:\VSProjects\Exam-24April2016\SpecialNumbers\obj\Debug\SpecialNumbers.csprojResolveAssemblyReference.cache
+D:\VSProjects\Exam-24April2016\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+D:\VSProjects\Exam-24April2016\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

@@ -1,0 +1,5 @@
+D:\VSProjects\Exam-24April2016\Operations\bin\Debug\Operations.exe.config
+D:\VSProjects\Exam-24April2016\Operations\bin\Debug\Operations.exe
+D:\VSProjects\Exam-24April2016\Operations\bin\Debug\Operations.pdb
+D:\VSProjects\Exam-24April2016\Operations\obj\Debug\Operations.exe
+D:\VSProjects\Exam-24April2016\Operations\obj\Debug\Operations.pdb

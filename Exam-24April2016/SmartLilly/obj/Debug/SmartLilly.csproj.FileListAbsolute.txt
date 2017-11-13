@@ -1,0 +1,6 @@
+D:\VSProjects\Exam-24April2016\SmartLilly\bin\Debug\SmartLilly.exe.config
+D:\VSProjects\Exam-24April2016\SmartLilly\bin\Debug\SmartLilly.exe
+D:\VSProjects\Exam-24April2016\SmartLilly\bin\Debug\SmartLilly.pdb
+D:\VSProjects\Exam-24April2016\SmartLilly\obj\Debug\SmartLilly.csprojResolveAssemblyReference.cache
+D:\VSProjects\Exam-24April2016\SmartLilly\obj\Debug\SmartLilly.exe
+D:\VSProjects\Exam-24April2016\SmartLilly\obj\Debug\SmartLilly.pdb
