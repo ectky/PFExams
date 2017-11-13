@@ -1,0 +1,6 @@
+D:\VSProjects\Exam-19March2017\ControlNumber1\bin\Debug\ControlNumber1.exe.config
+D:\VSProjects\Exam-19March2017\ControlNumber1\bin\Debug\ControlNumber1.exe
+D:\VSProjects\Exam-19March2017\ControlNumber1\bin\Debug\ControlNumber1.pdb
+D:\VSProjects\Exam-19March2017\ControlNumber1\obj\Debug\ControlNumber1.csprojResolveAssemblyReference.cache
+D:\VSProjects\Exam-19March2017\ControlNumber1\obj\Debug\ControlNumber1.exe
+D:\VSProjects\Exam-19March2017\ControlNumber1\obj\Debug\ControlNumber1.pdb
