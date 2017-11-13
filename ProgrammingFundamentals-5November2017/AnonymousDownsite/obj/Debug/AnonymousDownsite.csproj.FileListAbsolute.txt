@@ -1,0 +1,6 @@
+D:\VSProjects\ProgrammingFundamentals-5November2017\AnonymousDownsite\bin\Debug\AnonymousDownsite.exe.config
+D:\VSProjects\ProgrammingFundamentals-5November2017\AnonymousDownsite\bin\Debug\AnonymousDownsite.exe
+D:\VSProjects\ProgrammingFundamentals-5November2017\AnonymousDownsite\bin\Debug\AnonymousDownsite.pdb
+D:\VSProjects\ProgrammingFundamentals-5November2017\AnonymousDownsite\obj\Debug\AnonymousDownsite.csprojResolveAssemblyReference.cache
+D:\VSProjects\ProgrammingFundamentals-5November2017\AnonymousDownsite\obj\Debug\AnonymousDownsite.exe
+D:\VSProjects\ProgrammingFundamentals-5November2017\AnonymousDownsite\obj\Debug\AnonymousDownsite.pdb

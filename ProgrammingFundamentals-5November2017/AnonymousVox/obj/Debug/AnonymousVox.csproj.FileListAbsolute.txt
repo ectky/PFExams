@@ -1,0 +1,6 @@
+D:\VSProjects\ProgrammingFundamentals-5November2017\AnonymousVox\bin\Debug\AnonymousVox.exe.config
+D:\VSProjects\ProgrammingFundamentals-5November2017\AnonymousVox\bin\Debug\AnonymousVox.exe
+D:\VSProjects\ProgrammingFundamentals-5November2017\AnonymousVox\bin\Debug\AnonymousVox.pdb
+D:\VSProjects\ProgrammingFundamentals-5November2017\AnonymousVox\obj\Debug\AnonymousVox.csprojResolveAssemblyReference.cache
+D:\VSProjects\ProgrammingFundamentals-5November2017\AnonymousVox\obj\Debug\AnonymousVox.exe
+D:\VSProjects\ProgrammingFundamentals-5November2017\AnonymousVox\obj\Debug\AnonymousVox.pdb

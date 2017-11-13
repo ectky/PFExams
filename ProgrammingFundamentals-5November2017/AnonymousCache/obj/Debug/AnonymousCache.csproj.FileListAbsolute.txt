@@ -1,0 +1,5 @@
+D:\VSProjects\ProgrammingFundamentals-5November2017\AnonymousCache\bin\Debug\AnonymousCache.exe.config
+D:\VSProjects\ProgrammingFundamentals-5November2017\AnonymousCache\bin\Debug\AnonymousCache.exe
+D:\VSProjects\ProgrammingFundamentals-5November2017\AnonymousCache\bin\Debug\AnonymousCache.pdb
+D:\VSProjects\ProgrammingFundamentals-5November2017\AnonymousCache\obj\Debug\AnonymousCache.exe
+D:\VSProjects\ProgrammingFundamentals-5November2017\AnonymousCache\obj\Debug\AnonymousCache.pdb

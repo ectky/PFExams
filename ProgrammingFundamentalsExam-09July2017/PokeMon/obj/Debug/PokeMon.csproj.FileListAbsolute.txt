@@ -1,0 +1,6 @@
+D:\VSProjects\ProgrammingFundamentalsExam-09July2017\PokeMon\bin\Debug\PokeMon.exe.config
+D:\VSProjects\ProgrammingFundamentalsExam-09July2017\PokeMon\bin\Debug\PokeMon.exe
+D:\VSProjects\ProgrammingFundamentalsExam-09July2017\PokeMon\bin\Debug\PokeMon.pdb
+D:\VSProjects\ProgrammingFundamentalsExam-09July2017\PokeMon\obj\Debug\PokeMon.csprojResolveAssemblyReference.cache
+D:\VSProjects\ProgrammingFundamentalsExam-09July2017\PokeMon\obj\Debug\PokeMon.exe
+D:\VSProjects\ProgrammingFundamentalsExam-09July2017\PokeMon\obj\Debug\PokeMon.pdb

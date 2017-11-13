@@ -1,0 +1,6 @@
+D:\VSProjects\ProgrammingFundamentalsExam-09July2017\PokemonEvolution\bin\Debug\PokemonEvolution.exe.config
+D:\VSProjects\ProgrammingFundamentalsExam-09July2017\PokemonEvolution\bin\Debug\PokemonEvolution.exe
+D:\VSProjects\ProgrammingFundamentalsExam-09July2017\PokemonEvolution\bin\Debug\PokemonEvolution.pdb
+D:\VSProjects\ProgrammingFundamentalsExam-09July2017\PokemonEvolution\obj\Debug\PokemonEvolution.csprojResolveAssemblyReference.cache
+D:\VSProjects\ProgrammingFundamentalsExam-09July2017\PokemonEvolution\obj\Debug\PokemonEvolution.exe
+D:\VSProjects\ProgrammingFundamentalsExam-09July2017\PokemonEvolution\obj\Debug\PokemonEvolution.pdb

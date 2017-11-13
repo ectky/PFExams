@@ -1,0 +1,5 @@
+D:\VSProjects\ProgrammingFundamentalsExam-09July2017\PokemonDon'tGo\bin\Debug\PokemonDon'tGo.exe.config
+D:\VSProjects\ProgrammingFundamentalsExam-09July2017\PokemonDon'tGo\bin\Debug\PokemonDon'tGo.exe
+D:\VSProjects\ProgrammingFundamentalsExam-09July2017\PokemonDon'tGo\bin\Debug\PokemonDon'tGo.pdb
+D:\VSProjects\ProgrammingFundamentalsExam-09July2017\PokemonDon'tGo\obj\Debug\PokemonDon'tGo.exe
+D:\VSProjects\ProgrammingFundamentalsExam-09July2017\PokemonDon'tGo\obj\Debug\PokemonDon'tGo.pdb
