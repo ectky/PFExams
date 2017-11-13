@@ -1,0 +1,5 @@
+D:\VSProjects\Exam-20November2016-Evening\MaxCombination\bin\Debug\MaxCombination.exe.config
+D:\VSProjects\Exam-20November2016-Evening\MaxCombination\bin\Debug\MaxCombination.exe
+D:\VSProjects\Exam-20November2016-Evening\MaxCombination\bin\Debug\MaxCombination.pdb
+D:\VSProjects\Exam-20November2016-Evening\MaxCombination\obj\Debug\MaxCombination.exe
+D:\VSProjects\Exam-20November2016-Evening\MaxCombination\obj\Debug\MaxCombination.pdb

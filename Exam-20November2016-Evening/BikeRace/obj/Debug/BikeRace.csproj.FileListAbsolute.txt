@@ -1,0 +1,5 @@
+D:\VSProjects\Exam-20November2016-Evening\BikeRace\bin\Debug\BikeRace.exe.config
+D:\VSProjects\Exam-20November2016-Evening\BikeRace\bin\Debug\BikeRace.exe
+D:\VSProjects\Exam-20November2016-Evening\BikeRace\bin\Debug\BikeRace.pdb
+D:\VSProjects\Exam-20November2016-Evening\BikeRace\obj\Debug\BikeRace.exe
+D:\VSProjects\Exam-20November2016-Evening\BikeRace\obj\Debug\BikeRace.pdb
