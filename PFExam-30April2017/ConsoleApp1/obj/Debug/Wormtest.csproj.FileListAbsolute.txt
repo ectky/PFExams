@@ -1,0 +1,6 @@
+c:\users\elica\documents\visual studio 2017\Projects\PFExam-30April2017\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\elica\documents\visual studio 2017\Projects\PFExam-30April2017\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\elica\documents\visual studio 2017\Projects\PFExam-30April2017\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\elica\documents\visual studio 2017\Projects\PFExam-30April2017\ConsoleApp1\obj\Debug\Wormtest.csprojResolveAssemblyReference.cache
+c:\users\elica\documents\visual studio 2017\Projects\PFExam-30April2017\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\elica\documents\visual studio 2017\Projects\PFExam-30April2017\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
