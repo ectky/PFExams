@@ -1,0 +1,6 @@
+D:\VSProjects\Exam2016\SleepyTom\bin\Debug\SleepyTom.exe.config
+D:\VSProjects\Exam2016\SleepyTom\bin\Debug\SleepyTom.exe
+D:\VSProjects\Exam2016\SleepyTom\bin\Debug\SleepyTom.pdb
+D:\VSProjects\Exam2016\SleepyTom\obj\Debug\SleepyTom.csprojResolveAssemblyReference.cache
+D:\VSProjects\Exam2016\SleepyTom\obj\Debug\SleepyTom.exe
+D:\VSProjects\Exam2016\SleepyTom\obj\Debug\SleepyTom.pdb

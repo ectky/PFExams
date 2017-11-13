@@ -1,0 +1,7 @@
+D:\VSProjects\Exam2016\Exam2016\bin\Debug\Exam2016.exe.config
+D:\VSProjects\Exam2016\Exam2016\bin\Debug\Exam2016.exe
+D:\VSProjects\Exam2016\Exam2016\bin\Debug\Exam2016.pdb
+D:\VSProjects\Exam2016\Exam2016\obj\Debug\Exam2016.Properties.Resources.resources
+D:\VSProjects\Exam2016\Exam2016\obj\Debug\Exam2016.csproj.GenerateResource.Cache
+D:\VSProjects\Exam2016\Exam2016\obj\Debug\Exam2016.exe
+D:\VSProjects\Exam2016\Exam2016\obj\Debug\Exam2016.pdb
