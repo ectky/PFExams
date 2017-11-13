@@ -1,0 +1,5 @@
+D:\VSProjects\Exam-20November2016-Morning\Battles\bin\Debug\Battles.exe.config
+D:\VSProjects\Exam-20November2016-Morning\Battles\bin\Debug\Battles.exe
+D:\VSProjects\Exam-20November2016-Morning\Battles\bin\Debug\Battles.pdb
+D:\VSProjects\Exam-20November2016-Morning\Battles\obj\Debug\Battles.exe
+D:\VSProjects\Exam-20November2016-Morning\Battles\obj\Debug\Battles.pdb

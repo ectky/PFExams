@@ -1,0 +1,6 @@
+D:\VSProjects\Exam-20November2016-Morning\SoftuniCamp\bin\Debug\SoftuniCamp.exe.config
+D:\VSProjects\Exam-20November2016-Morning\SoftuniCamp\bin\Debug\SoftuniCamp.exe
+D:\VSProjects\Exam-20November2016-Morning\SoftuniCamp\bin\Debug\SoftuniCamp.pdb
+D:\VSProjects\Exam-20November2016-Morning\SoftuniCamp\obj\Debug\SoftuniCamp.csprojResolveAssemblyReference.cache
+D:\VSProjects\Exam-20November2016-Morning\SoftuniCamp\obj\Debug\SoftuniCamp.exe
+D:\VSProjects\Exam-20November2016-Morning\SoftuniCamp\obj\Debug\SoftuniCamp.pdb
