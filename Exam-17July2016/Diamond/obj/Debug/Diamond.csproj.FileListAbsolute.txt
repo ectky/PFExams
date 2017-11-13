@@ -1,0 +1,5 @@
+D:\VSProjects\Exam-17July2016\Diamond\bin\Debug\Diamond.exe.config
+D:\VSProjects\Exam-17July2016\Diamond\bin\Debug\Diamond.exe
+D:\VSProjects\Exam-17July2016\Diamond\bin\Debug\Diamond.pdb
+D:\VSProjects\Exam-17July2016\Diamond\obj\Debug\Diamond.exe
+D:\VSProjects\Exam-17July2016\Diamond\obj\Debug\Diamond.pdb

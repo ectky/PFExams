@@ -1,0 +1,6 @@
+D:\VSProjects\Exam-17July2016\Money1\bin\Debug\Money1.exe.config
+D:\VSProjects\Exam-17July2016\Money1\bin\Debug\Money1.exe
+D:\VSProjects\Exam-17July2016\Money1\bin\Debug\Money1.pdb
+D:\VSProjects\Exam-17July2016\Money1\obj\Debug\Money1.csprojResolveAssemblyReference.cache
+D:\VSProjects\Exam-17July2016\Money1\obj\Debug\Money1.exe
+D:\VSProjects\Exam-17July2016\Money1\obj\Debug\Money1.pdb
