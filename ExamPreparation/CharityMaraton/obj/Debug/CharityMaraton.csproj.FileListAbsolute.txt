@@ -1,0 +1,6 @@
+D:\VSProjects\ExamPreparation\CharityMaraton\bin\Debug\CharityMaraton.exe.config
+D:\VSProjects\ExamPreparation\CharityMaraton\bin\Debug\CharityMaraton.exe
+D:\VSProjects\ExamPreparation\CharityMaraton\bin\Debug\CharityMaraton.pdb
+D:\VSProjects\ExamPreparation\CharityMaraton\obj\Debug\CharityMaraton.csprojResolveAssemblyReference.cache
+D:\VSProjects\ExamPreparation\CharityMaraton\obj\Debug\CharityMaraton.exe
+D:\VSProjects\ExamPreparation\CharityMaraton\obj\Debug\CharityMaraton.pdb

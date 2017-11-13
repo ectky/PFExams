@@ -1,0 +1,6 @@
+D:\VSProjects\ExamPreparationIII\EnduranceRally\bin\Debug\EnduranceRally.exe.config
+D:\VSProjects\ExamPreparationIII\EnduranceRally\bin\Debug\EnduranceRally.exe
+D:\VSProjects\ExamPreparationIII\EnduranceRally\bin\Debug\EnduranceRally.pdb
+D:\VSProjects\ExamPreparationIII\EnduranceRally\obj\Debug\EnduranceRally.csprojResolveAssemblyReference.cache
+D:\VSProjects\ExamPreparationIII\EnduranceRally\obj\Debug\EnduranceRally.exe
+D:\VSProjects\ExamPreparationIII\EnduranceRally\obj\Debug\EnduranceRally.pdb

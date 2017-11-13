@@ -1,0 +1,6 @@
+D:\VSProjects\ExamPreparationIII\WinningTicket\bin\Debug\WinningTicket.exe.config
+D:\VSProjects\ExamPreparationIII\WinningTicket\bin\Debug\WinningTicket.exe
+D:\VSProjects\ExamPreparationIII\WinningTicket\bin\Debug\WinningTicket.pdb
+D:\VSProjects\ExamPreparationIII\WinningTicket\obj\Debug\WinningTicket.csprojResolveAssemblyReference.cache
+D:\VSProjects\ExamPreparationIII\WinningTicket\obj\Debug\WinningTicket.exe
+D:\VSProjects\ExamPreparationIII\WinningTicket\obj\Debug\WinningTicket.pdb

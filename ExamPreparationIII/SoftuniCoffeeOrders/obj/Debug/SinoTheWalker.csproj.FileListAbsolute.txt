@@ -1,0 +1,6 @@
+D:\VSProjects\ExamPreparationIII\SoftuniCoffeeOrders\bin\Debug\SoftuniCoffeeOrders.exe.config
+D:\VSProjects\ExamPreparationIII\SoftuniCoffeeOrders\bin\Debug\SoftuniCoffeeOrders.exe
+D:\VSProjects\ExamPreparationIII\SoftuniCoffeeOrders\bin\Debug\SoftuniCoffeeOrders.pdb
+D:\VSProjects\ExamPreparationIII\SoftuniCoffeeOrders\obj\Debug\SinoTheWalker.csprojResolveAssemblyReference.cache
+D:\VSProjects\ExamPreparationIII\SoftuniCoffeeOrders\obj\Debug\SoftuniCoffeeOrders.exe
+D:\VSProjects\ExamPreparationIII\SoftuniCoffeeOrders\obj\Debug\SoftuniCoffeeOrders.pdb
