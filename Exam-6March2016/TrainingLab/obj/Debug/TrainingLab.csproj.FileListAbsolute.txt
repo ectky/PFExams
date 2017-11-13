@@ -1,0 +1,6 @@
+D:\VSProjects\Exam-6March2016\TrainingLab\bin\Debug\TrainingLab.exe.config
+D:\VSProjects\Exam-6March2016\TrainingLab\bin\Debug\TrainingLab.exe
+D:\VSProjects\Exam-6March2016\TrainingLab\bin\Debug\TrainingLab.pdb
+D:\VSProjects\Exam-6March2016\TrainingLab\obj\Debug\TrainingLab.csprojResolveAssemblyReference.cache
+D:\VSProjects\Exam-6March2016\TrainingLab\obj\Debug\TrainingLab.exe
+D:\VSProjects\Exam-6March2016\TrainingLab\obj\Debug\TrainingLab.pdb

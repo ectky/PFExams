@@ -1,0 +1,5 @@
+D:\VSProjects\Exam-6March2016\Histogram\bin\Debug\Histogram.exe.config
+D:\VSProjects\Exam-6March2016\Histogram\bin\Debug\Histogram.exe
+D:\VSProjects\Exam-6March2016\Histogram\bin\Debug\Histogram.pdb
+D:\VSProjects\Exam-6March2016\Histogram\obj\Debug\Histogram.exe
+D:\VSProjects\Exam-6March2016\Histogram\obj\Debug\Histogram.pdb
